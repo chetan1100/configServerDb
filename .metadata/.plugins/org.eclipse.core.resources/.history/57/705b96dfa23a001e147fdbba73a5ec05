@@ -1,0 +1,5 @@
+package com.trigyn.countryservice.service;
+
+public class CountryService {
+
+}

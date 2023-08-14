@@ -1,0 +1,14 @@
+package com.trigyn.countryservice.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.trigyn.countryservice.service.CountryService;
+
+@RestController
+public class CountryController {
+	
+	@Autowired
+	CountryService countryService;
+
+}

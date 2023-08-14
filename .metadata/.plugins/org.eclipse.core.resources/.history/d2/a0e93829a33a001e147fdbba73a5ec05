@@ -1,0 +1,8 @@
+package com.trigyn.countryservice.service;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class CountryService {
+
+}

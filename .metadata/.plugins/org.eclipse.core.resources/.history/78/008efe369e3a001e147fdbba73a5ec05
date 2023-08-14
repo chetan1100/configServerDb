@@ -1,0 +1,5 @@
+package com.trigyn.countryservice.model;
+
+public class Country {
+
+}

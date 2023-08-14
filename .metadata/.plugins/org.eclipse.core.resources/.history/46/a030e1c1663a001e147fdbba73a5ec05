@@ -1,0 +1,5 @@
+package com.trigyn.priceservice.repository;
+
+public interface PriceServiceRepository {
+
+}
